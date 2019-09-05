@@ -1,2 +1,0 @@
-# OzgurSandBox
-Created with CodeSandbox
